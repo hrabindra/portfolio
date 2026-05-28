@@ -8,9 +8,9 @@ export function Footer() {
           </div>
 
           <div className="flex items-center gap-8">
-            <a href="#" className="text-sm text-gray-600 hover:text-white transition-colors">LINKEDIN</a>
-            <a href="#" className="text-sm text-gray-600 hover:text-white transition-colors">DRIBBBLE</a>
-            <a href="#" className="text-sm text-gray-600 hover:text-white transition-colors">BEHANCE</a>
+            <a href="https://www.linkedin.com/in/hrabindra/" className="text-sm text-gray-600 hover:text-white transition-colors">LINKEDIN</a>
+            <a href="https://dribbble.com/hrabindra" className="text-sm text-gray-600 hover:text-white transition-colors">DRIBBBLE</a>
+            <a href="https://www.behance.net/hrabindra" className="text-sm text-gray-600 hover:text-white transition-colors">BEHANCE</a>
           </div>
         </div>
       </div>

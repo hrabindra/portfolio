@@ -109,7 +109,7 @@ export function Contact() {
                 OPEN FOR NEW PROJECTS
               </div>
               <div className="text-gray-400">
-                Limited spots available for select projects starting April 2026
+                Limited spots available for select projects starting Sep 2026
               </div>
             </motion.div>
           </motion.div>

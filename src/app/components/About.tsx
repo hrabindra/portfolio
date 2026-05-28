@@ -46,7 +46,7 @@ export function About() {
                 viewport={{ once: true }}
                 transition={{ duration: 0.6, delay: 0.3 }}
               >
-                With over 12 years of experience, I've designed scalable digital products across 
+                With over 10 years of experience, I've designed scalable digital products across 
                 fintech, insurance, SaaS, healthcare, and nonprofit sectors.
               </motion.p>
               <motion.p

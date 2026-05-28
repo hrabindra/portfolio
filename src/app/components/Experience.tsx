@@ -4,8 +4,8 @@ export function Experience() {
   const experiences = [
     {
       year: '2020 - Present',
-      role: 'Senior UX Designer',
-      company: 'SaaS Platform',
+      role: 'Design Team Lead',
+      company: 'Digi Hub',
       description: 'Led UX strategy for scalable platforms'
     },
     {
